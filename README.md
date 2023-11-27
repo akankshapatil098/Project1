@@ -3,6 +3,7 @@
 # <a href="elearnweb.b4g3cjh6ercfevcj.eastus.azurecontainer.io">E-Learn</a>
 
 ### Demo Video:
+<a href="https://drive.google.com/file/d/1kW4ajVYpg3qVA_xIWKkQJUZUT0uq19Tm/view?usp=drive_link">https://drive.google.com/file/d/1kW4ajVYpg3qVA_xIWKkQJUZUT0uq19Tm/view?usp=drive_link</a>
 
 
 ### Industry :
@@ -30,26 +31,26 @@ eLearn is an E-Learning Static Website designed to be a comprehensive online hub
 
 <h3>ScreenShots:</h3>
 <h3>ScreenShots:</h3>
-1.Resource group
+1.Resource Group
 <br>
 <br>
-<img src=""></img>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/84f62c80-652e-4547-8df1-ef6a1f766da6"></img>
 <br>
 <br>
-2.Creating Virtual Machine
+2.Virtual Machine
 <br>
 <br>
 <img src="https://github.com/akankshapatil098/Project1/assets/145763022/6d756929-cbf3-4c6b-8012-9ce55439ee1b"></img>
 <br>
 <br>
-3.Container registry
+3.Container Registry
 <br>
 <br>
 <img src="https://github.com/akankshapatil098/Project1/assets/145763022/8a285ce4-ee47-43ed-bc9e-69c1436cd596"></img>
 <br>
 <br>
 
-4.Creating container instance
+4.Container Instance
 <br>
 <br>
 <img src="https://github.com/akankshapatil098/Project1/assets/145763022/4d5177aa-25ce-4996-aef3-6f03630f6527"></img>
