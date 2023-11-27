@@ -33,7 +33,7 @@ eLearn is an E-Learning Static Website designed to be a comprehensive online hub
 1.Resource group
 <br>
 <br>
-<img src="https://github.com/akankshapatil098/Project1/assets/145763022/6d756929-cbf3-4c6b-8012-9ce55439ee1b"></img>
+<img src=""></img>
 <br>
 <br>
 2.Creating Virtual Machine
