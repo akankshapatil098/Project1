@@ -27,3 +27,42 @@ eLearn is an E-Learning Static Website designed to be a comprehensive online hub
 <li>Azure Virtual Machine</li>
 <li>Azure Container Registries</li>
 <li>Azure Container Instances</li>
+
+<h3>ScreenShots:</h3>
+1.Creating Virtual Machine
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/6d756929-cbf3-4c6b-8012-9ce55439ee1b"></img>
+<br>
+<br>
+2.Container registry
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/8a285ce4-ee47-43ed-bc9e-69c1436cd596"></img>
+<br>
+<br>
+
+3.Creating container instance
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/4d5177aa-25ce-4996-aef3-6f03630f6527"></img>
+<br>
+<br>
+
+<h3>output</h3>
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/118341f0-d0f1-40a3-a18e-e2542646109d"></img>
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/e887412b-b842-40e8-954e-79f1c8dd1ce8)"></img>
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/4cfa5812-18f8-46f3-89eb-0bd941e53e24"></img>
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/d8e2cf00-5bc9-48de-b029-48818c07fdec"></img>
+<br>
+<br>
+<img src="https://github.com/akankshapatil098/Project1/assets/145763022/760314d1-f214-42b3-b8d6-bb19a1226c40"></img>
+
