@@ -1,6 +1,6 @@
 <h1> Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
 
-# <a href="elearnweb.b4g3cjh6ercfevcj.eastus.azurecontainer.io/index.html">E-Learn</a>
+# <a href="http://elearnweb.b4g3cjh6ercfevcj.eastus.azurecontainer.io/">E-Learn</a>
 
 ### Demo Video:
 <a href="https://drive.google.com/file/d/1kW4ajVYpg3qVA_xIWKkQJUZUT0uq19Tm/view?usp=drive_link">https://drive.google.com/file/d/1kW4ajVYpg3qVA_xIWKkQJUZUT0uq19Tm/view?usp=drive_link</a>
